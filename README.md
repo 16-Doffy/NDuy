@@ -5,9 +5,9 @@
 <h1 align='center'>
   Hi there, I'm Ngo Pham Nhut Duy
 </h1>
-- <p align="center">
+<p align="center">
  <h3 align="center">A passionate web developer from VietNam</h3>
-  <h4>> ✍ I'm a software developer at FPT University.</h4>
+  <h4> ✍ I'm a software developer at FPT University.</h4>
 </p>
 
 
@@ -58,7 +58,7 @@
   <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />  
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/16-Doffy" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
 </p>
