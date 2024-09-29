@@ -1,29 +1,32 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/461130644_3867781496768134_5513346438300123937_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGfy4qskFVPYRhH-mTJG6XJipaFIydZxt2KloUjJ1nG3bh-f4dQIprZE1yi45JJh-Bi_cXJryS-CDaWe7kls2A1&_nc_ohc=VAfwBgnx1iIQ7kNvgGxI_Cp&_nc_ht=scontent.fsgn19-1.fna&_nc_gid=Asu6OX21essWTIpsllGJaGI&oh=00_AYAGSMW6aGKnuN0ZbjdMjgLoTkgnurp7ZZjp2ZWL9i5fLQ&oe=66FF563B" />
+<img align="right" width="64" src="https://png.pngtree.com/element_our/20200701/ourmid/pngtree-flamingo-standing-in-the-flowers-and-grass-png-transparent-material-image_2277891.jpg" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h1 align='center'>
-  Hi there, I'm NDuy (Ngô Phạm Nhựt Duy)
+  Hi there, I'm NDuy 
 </h1>
 <p align="center">
  <h3 align="center">A passionate web developer from VietNam</h3>
   <h4> ✍ I'm a software developer at FPT University.</h4>
 </p>
-
+## 📫 How to reach me: <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email"></a>
+<p align="center">
+  <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />  
+  </a> 
+  <a href="https://github.com/16-Doffy" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+</p>
 
 <br />
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</p>
+
 
 ## Activities:
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NDuy&show_icons=true&theme=radical" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical" width="100%"/>
          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NDuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%"alt="languages graph"/></a>
     </td>
     <td>
@@ -50,12 +53,4 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
 
 
-## 📫 How to reach me: <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email"></a>
-<p align="center">
-  <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />  
-  </a> 
-  <a href="https://github.com/16-Doffy" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-</p>
+
