@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm NDuy</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">Developer Sofware's FPT </h3>
 </p>
 
 > ✍ I'm a software developer at FPT University.
