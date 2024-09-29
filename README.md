@@ -17,16 +17,13 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
   <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://github.com/16-Doffy"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="duynpnse161783@fpt.edu.vn" alt="Email">
+  <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
