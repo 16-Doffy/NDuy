@@ -3,7 +3,7 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h1 align='center'>
-  Hi there, I'm Ngo Pham Nhut Duy
+  Hi there, I'm NDuy (Ngô Phạm Nhựt Duy)
 </h1>
 <p align="center">
  <h3 align="center">A passionate web developer from VietNam</h3>
