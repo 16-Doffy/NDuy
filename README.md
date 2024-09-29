@@ -5,24 +5,13 @@
 <h1 align='center'>
   Hi there, I'm Ngo Pham Nhut Duy
 </h1>
-<p align="center">
+- <p align="center">
  <h3 align="center">A passionate web developer from VietNam</h3>
+  <h4>> ✍ I'm a software developer at FPT University.</h4>
 </p>
 
-> ✍ I'm a software developer at FPT University.
 
 <br />
-
-## 📫 How to reach me: <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email"></a>
-<p align="center">
-  <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />  
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-</p>
-
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
@@ -62,3 +51,14 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+
+
+## 📫 How to reach me: <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email"></a>
+<p align="center">
+  <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />  
+  </a> 
+  <a href="https://github.com/TienNHM" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+</p>
