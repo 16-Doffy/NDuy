@@ -2,30 +2,25 @@
 <img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm NDuy</h2>
+<h1 align='center'>
+  Hi there, I'm Ngo Pham Nhut Duy
+</h1>
 <p align="center">
-  <h3 align="center">Developer Sofware's FPT </h3>
+ <h3 align="center">A passionate web developer from VietNam</h3>
 </p>
 
 > ✍ I'm a software developer at FPT University.
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
-
-## 📫 How to reach me:
-
+## 📫 How to reach me: <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email"></a>
 <p align="center">
   <a href="https://www.facebook.com/binkamikaze" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />  
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:duynpnse161783@fpt.edu.vn" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
 ## Skills:
